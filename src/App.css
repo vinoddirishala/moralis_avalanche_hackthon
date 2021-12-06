@@ -41,3 +41,18 @@
   background-color: #F16E10;
 }
 
+#nav-profile-dropdown{
+  color: white;
+  font-weight: bold;
+  background-color: rgb(48, 148, 187);
+  border-radius: 20px;
+}
+
+#nav-connect-wallet-btn{
+  border-radius: 20px;
+}
+
+#navBarMenuItemsList{
+  padding-right: 50px;
+}
+
